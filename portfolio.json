@@ -5,29 +5,24 @@
   "projectDescription": "froggies portfolio of artwork and projects",
   "projectContents": [
     {
-      "objectName": "portfolio version 0.0.1",
-      "portfolioContents": [
-        {
-          "artIndex": 0,
-          "artName": "Thank you for taking the time to enjoy my portfolio!",
-          "artCaption": "I hope you enjoy browsing my work.",
-          "artLocation": "#"
-        },
+      "artIndex": 0,
+      "artName": "Thank you for taking the time to enjoy my portfolio!",
+      "artCaption": "I hope you enjoy browsing my work.",
+      "artLocation": "#"
+    },
 
-        {
-          "artIndex": 1,
-          "artName": "D. Vega Consulting Logo",
-          "artCaption": "I designed this logo for D. Vega Consulting to capture the blossoming, vibrant nature of their goal to serve the community.",
-          "artLocation": "#"
-        },
+    {
+      "artIndex": 1,
+      "artName": "D. Vega Consulting Logo",
+      "artCaption": "I designed this logo for D. Vega Consulting to capture the blossoming, vibrant nature of their goal to serve the community.",
+      "artLocation": "#"
+    },
 
-        {
-          "artIndex": 2,
-          "artName": "Meet Ducky Instagram Post",
-          "artCaption": "I made this graphic as a part of an introductory post for a client. The graphic features their favorite color, purple.",
-          "artLocation": "#"
-        }
-      ]
+    {
+      "artIndex": 2,
+      "artName": "Meet Ducky Instagram Post",
+      "artCaption": "I made this graphic as a part of an introductory post for a client. The graphic features their favorite color, purple.",
+      "artLocation": "#"
     }
   ]
 }
